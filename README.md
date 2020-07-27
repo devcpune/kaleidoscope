@@ -13,8 +13,10 @@ Just like a [Kaleidoscope](https://en.wikipedia.org/wiki/Kaleidoscope) when you 
 
 ### Moderator
 
-- [Sangeeta Gupta](https://github.com/sangeetagupta2068)
+- [Aastha Shrivastava](https://github.com/shriaas2898)
 - [Abhisek Mazumdar](https://github.com/abhisekmazumdar)
+- [Alphons Jaimon](https://github.com/AJV009)
+- [Sayak Sarkar](https://github.com/sayak-sarkar)
 
 ### How to add your project link here
 
