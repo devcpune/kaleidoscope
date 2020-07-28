@@ -2,8 +2,7 @@
 
 # Kaleidoscope
 
-Just like a [Kaleidoscope](https://en.wikipedia.org/wiki/Kaleidoscope) when you see through it you see mesmerizing & colorful patterns. That's the concept behind this repo when you go throw it you will find different kinds of projects and tech at one place crafted by our [community members](https://www.facebook.com/groups/DevCPune/).
-
+Just like a [Kaleidoscope](https://en.wikipedia.org/wiki/Kaleidoscope) when you see through it you see mesmerizing & colorful patterns. That's the concept behind this repo when you go through it you will find different kinds of projects and tech at one place crafted by our [community members](https://www.facebook.com/groups/DevCPune/)
 ## Table of contents
 
 - [Contribution Guidelines](./docs/CONTRIBUTING.md)
