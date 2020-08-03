@@ -86,7 +86,7 @@ Please refer to the **[Code of Conduct](https://engineering.fb.com/codeofconduct
 
 If you want to add your project here kindly follow the following steps:
 
-1. Ensure your project follows all the guidelines mentioned in [chapter 0](#chapter-0) and [chapter 1](#chapter-1).
+1. Ensure your project follows all the guidelines mentioned above.
 2. Open a pull request and don't forget to provide a proper description.
 
 ## Issues
