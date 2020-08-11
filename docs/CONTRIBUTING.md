@@ -33,8 +33,9 @@ the folder create another folder in the following pattern:
   
 - <ins>Step 2.2 If you have developed a different flavor of an existing project:</ins>
 If you have made a different version of a project that already exists in our repo then please create the
-username specific folder within the original project folder. The folder naming pattern should be
-< your GitHub username >_< project name >
+username specific folder within the original project folder with the following pattern:
+
+  < your GitHub username >_< project name >
 
 Example:
 Let’s say a project called Dragon already exists in our repo and is developed by a user called Starboy42
@@ -71,7 +72,7 @@ above.
 
 <ins>Step 4: Pull request!</ins>
 
-Create a [pull request](#pull-request) to merge your changes into the repo hosted on the DevC Pune account.
+Create a [pull request](#pull-request) with proper description to merge your changes into the repo hosted on the DevC Pune organization.
 
 <ins>Step 5: Keep track of your pull request</ins>
 
