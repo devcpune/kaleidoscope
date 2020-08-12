@@ -24,7 +24,7 @@ code running
 ### Chapter 1: Contributing to the DevC Pune repository
 <ins>Step 1: Fork **[devcpune/kaleidoscope](https://github.com/devcpune/kaleidoscope/tree/master)** repository</ins>
 
-<ins>Step 2: Copy project into the forked repo under 'projects' folder</ins>
+<ins>Step 2: Copy project into the forked repo under ['projects'](projects/) folder</ins>
 
 - <ins>Step 2.1 If you are creating a new project:</ins> Within the forked repo under projects directory, in the ​ develop​ branch, create a folder with the name of your project. Within
 the folder create another folder in the following pattern:
