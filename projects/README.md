@@ -3,7 +3,7 @@ The 'projects' directory contains all the different projects added by the contri
 Following directory structurs is followed:
 **DevCPune/kaleidoscope/projects**
 - <project name>
-  - <github username>_<project ame>
+  - <github username>_<project name>
     - source/
     - output/
     - README.md
