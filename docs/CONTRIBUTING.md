@@ -24,9 +24,9 @@ code running
 ### Chapter 1: Contributing to the DevC Pune repository
 <ins>Step 1: Fork **[devcpune/kaleidoscope](https://github.com/devcpune/kaleidoscope/tree/master)** repository</ins>
 
-<ins>Step 2: Copy project into the forked repo</ins>
+<ins>Step 2: Copy project into the forked repo under ['projects'](projects/) folder</ins>
 
-- <ins>Step 2.1 If you are creating a new project:</ins> Within the forked repo, in the ​ develop​ branch, create a folder with the name of your project. Within
+- <ins>Step 2.1 If you are creating a new project:</ins> Within the forked repo under projects directory, in the ​ develop​ branch, create a folder with the name of your project. Within
 the folder create another folder in the following pattern:
 
   < your GitHub username >_< project name >
@@ -41,7 +41,7 @@ Example:
 Let’s say a project called Dragon already exists in our repo and is developed by a user called Starboy42
 The project tree will, therefore, look like:
 
-**DevCPune/kaleidoscope**
+**DevCPune/kaleidoscope/projects**
 - Dragon
   - Starboy42_Dragon
     - source/
@@ -53,7 +53,7 @@ manner that does not deviate the Dragon project from its original purpose (if it
 purpose, then please refer Step 2.1 ). If your username is CaptainMarvel_43, then after your
 contribution the directory tree should resemble the below structure:
 
-**DevCPune/kaleidoscope**
+**DevCPune/kaleidoscope/projects**
 - Dragon
   - Starboy42_Dragon
     - source/
