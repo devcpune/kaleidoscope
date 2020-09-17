@@ -2,7 +2,8 @@
 
 # Kaleidoscope
 
-Just like a [Kaleidoscope](https://en.wikipedia.org/wiki/Kaleidoscope) when you see through it you see mesmerizing & colorful patterns. That's the concept behind this repo when you go through it you will find different kinds of projects and tech at one place crafted by our [community members](https://www.facebook.com/groups/DevCPune/)
+Just like a [Kaleidoscope](https://en.wikipedia.org/wiki/Kaleidoscope) when you see through it you see mesmerizing & colorful patterns. That's the concept behind this repo when you go through it you will find different kinds of [Facebook spark AR](https://sparkar.facebook.com/ar-studio/) projects crafted by our [community members](https://www.facebook.com/groups/DevCPune/). Showcase your filters/AR Projects links with screenshots.
+
 ## Table of contents
 
 - [Contribution Guidelines](./docs/CONTRIBUTING.md)
