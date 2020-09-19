@@ -26,7 +26,14 @@ Follow the [Contribution Guidelines](./docs/CONTRIBUTING.md)
 
 ### Advantage of Contributing to the repository
 
-TBD
+- It help you to become a better developer
+- A great way to showcase your tallent and creativity throught github
+- Get recognized within community
+- An excuse to work with Facebook spark AR
+- Does not require a lot of techinal knowledge to work with spark AR ( You don't need to be an AR expert)
+- Unleash your creativity
+<!--- - inspire others and get inspired yourself by looking at the different community projects --->
+- <other benifits of contributing to a repository in general on github>
 
 ### Important Links
 
