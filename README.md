@@ -26,14 +26,10 @@ Follow the [Contribution Guidelines](./docs/CONTRIBUTING.md)
 
 ### Advantage of Contributing to the repository
 
-- It help you to become a better developer
-- A great way to showcase your tallent and creativity throught github
-- Get recognized within community
-- An excuse to work with Facebook spark AR
-- Does not require a lot of techinal knowledge to work with spark AR ( You don't need to be an AR expert)
-- Unleash your creativity
-<!--- - inspire others and get inspired yourself by looking at the different community projects --->
-- <other benifits of contributing to a repository in general on github>
+- AR filters are a fun way to increase brand awareness and engage with your audience. They can introduce new followers to your business and help existing followers get to know you better and interact with you more, if you are one of those who do not have a lot of followers then it is a great opportunity to showcase your talent to others and might as well earn more followers
+
+- It doen't require a lot of techinal knowledge or powerfull setup to create your own AR filter/project using **Facebook spark AR** , It might take some exploration and fiddling around, but Spark AR is fairly simple for anyone to use. The program includes some templates for common VR concepts, such as placing an object in the real world, makeup enhancements, face decoration, or changing the background. You can learn how to get the most out of the program by taking the tutorials in [Spark AR’s Learning Center](https://sparkar.facebook.com/ar-studio/learn/)
+
 
 ### Important Links
 
