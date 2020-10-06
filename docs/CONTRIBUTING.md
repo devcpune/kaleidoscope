@@ -38,8 +38,9 @@ username specific folder within the original project folder with the following p
 
   < your GitHub username >_< project name >
 
-Example:
-Let’s say a project called Dragon already exists in our repo and is developed by a user called Starboy42
+<details><summary>Example:</summary>
+  
+Let’s say a project called `Dragon` already exists in our repo and is developed by a user called `Starboy42`
 The project tree will, therefore, look like:
 
 **DevCPune/kaleidoscope/projects**
@@ -49,9 +50,9 @@ The project tree will, therefore, look like:
     - output/
     - README.md
     
-Now, you decided to take the source code of Dragon and make your own improvements to it in a
-manner that does not deviate the Dragon project from its original purpose (if it deviates from its original
-purpose, then please refer Step 2.1 ). If your username is CaptainMarvel_43, then after your
+Now, you decided to take the source code of `Dragon` and make your own improvements to it in a
+manner that does not deviate the `Dragon` project from its original purpose (if it deviates from its original
+purpose, then please refer Step 2.1 ). If your username is `CaptainMarvel_43`, then after your
 contribution the directory tree should resemble the below structure:
 
 **DevCPune/kaleidoscope/projects**
@@ -64,7 +65,8 @@ contribution the directory tree should resemble the below structure:
     - source/
     - output/
     - README.md
-  
+</details>
+
 <ins>Step 3: Copy all folders arranged in the desired structure into the forked repo</ins>
 
 Once your folder has been created, copy all the files and folder created in the manner described in
