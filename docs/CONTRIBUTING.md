@@ -8,10 +8,10 @@ Ensure that your code and project is in a working condition and performs its int
 
 In order to ensure that your project can be accepted into our repo, please ensure your project has the
 following directories/folders and files.
-- **source/** -> This directory must contain the complete source code of your project
-- **output/** -> This directory must contain screenshots/videos of the working of your project, the
+- **source/** -> This directory must contain your acctual project including the complete source code of your project and the `.arproj` file.
+- **output/** -> This directory must contain screenshots/videos/gifs of the working of your project, the
 purpose of this is to act as evidence that your project is in a working condition.
-- **README.md** -> The readme file will contain general information about your project. Please refer to Step 3 for the template of this readme file.
+- **README.md** -> The readme file will contain general information about your project. If possible also create a trial link to the project you have created on facebook or instagram in your readme, for further infomation please refer to Step 3 for the template of this readme file.
 
 <ins>Step 3: Preparing the README</ins>
 
@@ -20,7 +20,7 @@ The README file of your project must contain the following sections:
 - **A Section titled Pre-requisites** ​ : What will need to be installed in the system in order to get your
 code running
 - **A Section titled User Guide** : ​ How to go about using your project from the end-user perspective
-- **A section titled Contact Details** : ​ Your contact information (Preferably GitHub profile and email address, no phone numbers please)
+- **A section titled Contact Details** : ​ Your contact information (Preferably GitHub profile and email, ⚠️ no phone numbers please)
 ### Chapter 1: Contributing to the DevC Pune repository
 <ins>Step 1: Fork **[devcpune/kaleidoscope](https://github.com/devcpune/kaleidoscope/tree/master)** repository</ins>
 
