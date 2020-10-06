@@ -11,7 +11,7 @@ following directories/folders and files.
 - **source/** -> This directory must contain your acctual project including the complete source code of your project and the `.arproj` file.
 - **output/** -> This directory must contain screenshots/videos/gifs of the working of your project, the
 purpose of this is to act as evidence that your project is in a working condition.
-- **README.md** -> The readme file will contain general information about your project. If possible also create a trial link to the project you have created on facebook or instagram in your readme, for further infomation please refer to Step 3 for the template of this readme file.
+- **README.md** -> The README file will contain general information about your project. If possible also create a trial link to the project you have created on Facebook or Instagram in your README, for further information please refer to Step 3 for the template of this README file.
 
 <ins>Step 3: Preparing the README</ins>
 
