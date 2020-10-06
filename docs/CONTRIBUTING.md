@@ -17,10 +17,11 @@ purpose of this is to act as evidence that your project is in a working conditio
 
 The README file of your project must contain the following sections:
 - **A Section titled Purpose** : ​ Purpose of your project
-- **A Section titled Pre-requisites** ​ : What will need to be installed in the system in order to get your
+- **A Section titled Pre-requisites** ​ : What will need to be installed (including arstudio (just to make it understandable for first timers also)) in the system in order to get your
 code running
-- **A Section titled User Guide** : ​ How to go about using your project from the end-user perspective
+- **A Section titled User Guide** : ​ How to go about using your project from the end-user perspective (may as well add pictures/videos explaining them)
 - **A section titled Contact Details** : ​ Your contact information (Preferably GitHub profile and email, ⚠️ no phone numbers please)
+
 ### Chapter 1: Contributing to the DevC Pune repository
 <ins>Step 1: Fork **[devcpune/kaleidoscope](https://github.com/devcpune/kaleidoscope/tree/master)** repository</ins>
 
