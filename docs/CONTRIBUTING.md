@@ -8,19 +8,20 @@ Ensure that your code and project is in a working condition and performs its int
 
 In order to ensure that your project can be accepted into our repo, please ensure your project has the
 following directories/folders and files.
-- **source/** -> This directory must contain the complete source code of your project
-- **output/** -> This directory must contain screenshots/videos of the working of your project, the
+- **source/** -> This directory must contain your actual project including the complete source code of your project and the `.arproj` file.
+- **output/** -> This directory must contain screenshots/videos/gifs of the working of your project, the
 purpose of this is to act as evidence that your project is in a working condition.
-- **README.md** -> The readme file will contain general information about your project. Please refer to Step 3 for the template of this readme file.
+- **README.md** -> The README file will contain general information about your project. If possible also create a trial link to the project you have created on Facebook or Instagram in your README, for further information please refer to Step 3 for the template of this README file.
 
 <ins>Step 3: Preparing the README</ins>
 
 The README file of your project must contain the following sections:
 - **A Section titled Purpose** : ​ Purpose of your project
-- **A Section titled Pre-requisites** ​ : What will need to be installed in the system in order to get your
+- **A Section titled Pre-requisites** ​ : What will need to be installed (including arstudio (just to make it understandable for first timers also)) in the system in order to get your
 code running
-- **A Section titled User Guide** : ​ How to go about using your project from the end-user perspective
-- **A section titled Contact Details** : ​ Your contact information (Preferably GitHub profile and email address, no phone numbers please)
+- **A Section titled User Guide** : ​ How to go about using your project from the end-user perspective (may as well add pictures/videos explaining them)
+- **A section titled Contact Details** : ​ Your contact information (Preferably GitHub profile and email, ⚠️ no phone numbers please)
+
 ### Chapter 1: Contributing to the DevC Pune repository
 <ins>Step 1: Fork **[devcpune/kaleidoscope](https://github.com/devcpune/kaleidoscope/tree/master)** repository</ins>
 
@@ -37,8 +38,9 @@ username specific folder within the original project folder with the following p
 
   < your GitHub username >_< project name >
 
-Example:
-Let’s say a project called Dragon already exists in our repo and is developed by a user called Starboy42
+<details><summary>Example:</summary>
+  
+Let’s say a project called `Dragon` already exists in our repo and is developed by a user called `Starboy42`
 The project tree will, therefore, look like:
 
 **DevCPune/kaleidoscope/projects**
@@ -48,9 +50,9 @@ The project tree will, therefore, look like:
     - output/
     - README.md
     
-Now, you decided to take the source code of Dragon and make your own improvements to it in a
-manner that does not deviate the Dragon project from its original purpose (if it deviates from its original
-purpose, then please refer Step 2.1 ). If your username is CaptainMarvel_43, then after your
+Now, you decided to take the source code of `Dragon` and make your own improvements to it in a
+manner that does not deviate the `Dragon` project from its original purpose (if it deviates from its original
+purpose, then please refer Step 2.1 ). If your username is `CaptainMarvel_43`, then after your
 contribution the directory tree should resemble the below structure:
 
 **DevCPune/kaleidoscope/projects**
@@ -63,7 +65,8 @@ contribution the directory tree should resemble the below structure:
     - source/
     - output/
     - README.md
-  
+</details>
+
 <ins>Step 3: Copy all folders arranged in the desired structure into the forked repo</ins>
 
 Once your folder has been created, copy all the files and folder created in the manner described in
@@ -96,4 +99,4 @@ clear and has sufficient instructions to be able to reproduce the issue.
 
 ## License
 By contributing to this repo, you agree that your contributions will be licensed
-under the LICENSE file in the root directory of this source tree.
+under the [LICENSE](https://github.com/devcpune/kaleidoscope/blob/master/LICENSE) file in the root directory of this source tree.
